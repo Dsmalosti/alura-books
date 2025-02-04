@@ -28,7 +28,7 @@ Este é o visual do site na versão para tablet com a largura de 1024 pixels.
 
 * CSS
 
-* Flex-box
+* Figma
 
 ## 📁 Acesso ao projeto
 
